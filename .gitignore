@@ -1,0 +1,28 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+*.log
+
+# Build / dist / PyInstaller
+build/
+dist/
+*.spec
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Big assets (keep local or host elsewhere)
+model/
+"@ | Out-File -Encoding utf8 .gitignore
+
+backup.py
