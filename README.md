@@ -1,11 +1,27 @@
+# Chronos
 
-Chronos is an offline AI voice assistant that lets you control your computer using voice commands.  
-It can listen, understand, and respond — all without an internet connection.
+**Chronos** is an offline AI voice assistant that lets you control your computer completely hands-free.  
+It listens, understands, and responds — all **without an internet connection**.
 
+---
 
-## Features
-- 🎙️ Real-time speech recognition using Whisper  
-- 🧠 Offline LLM responses using Mistral GGUF models  
-- ⚙️ Task automation (open files, run commands, search folders)  
-- 🔊 Wake word detection (“Hey Friday” / “Hey Chronos”)  
-- 🪶 Fully offline — no data leaves your device  
+## ✨ Features
+
+🎙️ **Real-Time Speech Recognition**  
+Powered by Whisper, Chronos can accurately transcribe your voice commands in real time.
+
+🧠 **Offline Intelligence**  
+Runs local LLMs (Mistral GGUF models) to understand context and generate natural responses — no cloud required.
+
+⚙️ **Task Automation**  
+Open files, run applications, search folders, and perform system tasks using only your voice.
+
+🔊 **Wake Word Detection**  
+Instantly activates when you say **“Hey Friday”** or **“Hey Chronos”**, enabling seamless voice control.
+
+🪶 **Privacy-First Design**  
+All processing happens locally — **no data ever leaves your device**.
+
+---
+
+> Chronos redefines hands-free computing by combining offline speech recognition, local language models, and automation into one intelligent assistant.
