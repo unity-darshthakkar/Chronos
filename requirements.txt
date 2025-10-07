@@ -1,0 +1,21 @@
+# --- Core runtime ---
+faster-whisper
+ctranslate2          # pulled by faster-whisper, listed explicitly to be safe
+numpy
+sounddevice
+pyttsx3
+requests
+pyperclip
+pyautogui
+pywin32              # win32com client
+send2trash
+keyboard
+
+# --- Document/export (optional but used in past code) ---
+python-docx          # if you write .docx transcripts
+
+# --- Web / integrations (optional) ---
+playwright
+spotipy
+python-dotenv
+keyring
